@@ -1,17 +1,18 @@
 # ⚔️ # CodeQuest: L’aventura del programador/a de videojocs
 
-# ⚠️ Anotació
+# ⚠️ Projecte
 
-- Tots els codis han d’incorporar **control d’errors**.  
-- La **codificació ha de ser en anglès** (missatges, comentaris, variables, constants, etc.).  
-- Cada capítol ha de ser una **branca** de l’estil:
+Aquest projecte consisteix en desenvolupar un codi a partir de diverses etapes que podem dir capitols.  
+Cada capítol serà una **branca** de l’estil:
   - `chapter/trainwizard`
   - `chapter/checkdungeon`
   - `chapter/lootthemine`
-- Tots els *chapters* han de definir el **joc de proves** per després fer-lo servir al *Debug*.  
-- El **repositori** ha d’incloure un `README.md` amb el **joc de proves** i la **descripció del projecte**.  
-- Heu de gestionar la **creació d’issues** per cada *chapter*.  
-- Podeu consultar com **tancar o gestionar Pull Requests (PRs)** segons la documentació de GitHub.
+Cada branca és farà sobre la branca anterior. Per tant, un cop acabat un capitol s'haurà de fer una nova
+branca a partir d'aquesta per tal de tenir el codi desenvolupat fins al moment. Un cop acabat tots els
+capítols es podrà sol·licitar fer una **Pull Requests (PRs)**.
+
+- PD: es farà ús de issues per tenir un major control del projecte a la vegada que és farà un joc de proves
+per cada capítol.
 
 ## Chapter 1. El camí del mag aprenent 🧙‍♀️
 
